@@ -1,3 +1,6 @@
+execute pathogen#infect()
+nnoremap ,. :NERDTreeToggle <cr>
+
 syntax on
 filetype indent plugin on
 set relativenumber number
