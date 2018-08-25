@@ -92,4 +92,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias python=/usr/local/bin/python3.6
+alias love="~/Downloads/love.app/Contents/MacOS/love"
+alias python=/usr/local/bin/python3.4
+export PATH=/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki
+export MACHINE_STORAGE_PATH=/Volumes/Storage/goinfre/jjauzion
+export PATH=/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki
+export LD_LIBRARY_PATH=~/.brew/opt/sfml/lib
