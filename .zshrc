@@ -98,3 +98,5 @@ export PATH=/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/usr/bin:/bin:/u
 export MACHINE_STORAGE_PATH=/Volumes/Storage/goinfre/jjauzion
 export PATH=/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/Users/jjauzion/.brew/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki
 export LD_LIBRARY_PATH=~/.brew/opt/sfml/lib
+export PATH=/sgoinfre/goinfre/Perso/jjauzion/miniconda/bin:$PATH
+export PATH=/Users/jjauzion/driver:$PATH
