@@ -100,5 +100,3 @@ export PATH=/sgoinfre/goinfre/Perso/jjauzion/miniconda/bin:$PATH
 export PATH=/Users/jjauzion/driver:$PATH
 export PATH=$HOME/.brew/bin:$PATH
 export PATH="/Users/jjauzion/.brew/opt/coreutils/libexec/gnubin:$PATH" 
-export PATATE_S3_KEY_ID="AKIAQPJSDFSLCSMWXPE4"
-export PATATE_S3_KEY="JQuWI8UxzbHUGyfylOEsRAzFNKp4F4Z0lKmWDXG8"
