@@ -93,7 +93,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias love="~/Downloads/love.app/Contents/MacOS/love"
-alias python=/usr/local/bin/python3.4
 export MACHINE_STORAGE_PATH=/Volumes/Storage/goinfre/jjauzion
 export LD_LIBRARY_PATH=~/.brew/opt/sfml/lib
 export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/munki
@@ -101,3 +100,5 @@ export PATH=/sgoinfre/goinfre/Perso/jjauzion/miniconda/bin:$PATH
 export PATH=/Users/jjauzion/driver:$PATH
 export PATH=$HOME/.brew/bin:$PATH
 export PATH="/Users/jjauzion/.brew/opt/coreutils/libexec/gnubin:$PATH" 
+export PATATE_S3_KEY_ID="AKIAQPJSDFSLCSMWXPE4"
+export PATATE_S3_KEY="JQuWI8UxzbHUGyfylOEsRAzFNKp4F4Z0lKmWDXG8"
