@@ -1,3 +1,4 @@
 map <Enter> o<ESC>
+set relativenumber number
 inoremap jk <esc>
 set showcmd
