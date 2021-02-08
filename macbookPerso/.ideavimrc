@@ -1,0 +1,3 @@
+map <Enter> o<ESC>
+inoremap jk <esc>
+set showcmd
