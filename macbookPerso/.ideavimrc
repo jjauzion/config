@@ -2,3 +2,6 @@ map <Enter> o<ESC>
 set relativenumber number
 inoremap jk <esc>
 set showcmd
+
+" allow the . to execute once for each line of a visual selection
+vnoremap . :normal .<CR>

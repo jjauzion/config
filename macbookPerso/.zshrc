@@ -101,6 +101,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias gas="git add . && git status"
 alias gcm="git commit -m"
+alias gacm="git add . && git commit -m"
+alias gac="git add . && git commit"
+
+# SWITCH TO JAVA VERSION 8
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
@@ -117,3 +122,10 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# PATH
+PATH="$PATH:/Users/jjauzion/kafka_2.13-2.8.0/bin"
